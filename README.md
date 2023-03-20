@@ -22,3 +22,12 @@ php -S localhost:8000
 
 ```
 
+Abra o navegador ou clique no link do terminal
+
+```
+http://localhost:8000
+
+```
+
+### Pronto!
+
