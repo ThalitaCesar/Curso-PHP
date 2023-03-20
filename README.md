@@ -1,5 +1,8 @@
 # Curso PHP
 
+![php](https://user-images.githubusercontent.com/83131771/226482615-7e4d56af-c430-4522-96a0-438db74636e9.png)
+
+
 Aqui estará alguns exércicios e projetos de PHP. O aprendizado é sozinha.
 
 ## Requerimentos
