@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #690;
+    padding: 8px 10px;
+    text-align: center;
+    height: 50px;
+}
+
+section {
+    text-align: center;
+    padding-top: 160px;
+    height: 100vh;
+    background-color: blue;
+}
+
+a {
+    display: inline-block;
+    margin: 0 10px;
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: pink
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
